@@ -6,7 +6,7 @@ import datetime
 from pushbullet import PushBullet
 import os
 
-apiKey = ""
+apiKey = "o.Utb3TNaLITp45y2ET0tuFWXZZH9mr48B"
 p = PushBullet(apiKey)
 devices = p.getDevices()
 
